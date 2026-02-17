@@ -1,0 +1,12 @@
+[
+  { "name": "Xx_NoScope_xX", "score": 999999 },
+  { "name": "ERROR_42", "score": 888888 },
+  { "name": "GLITCH_MASTER", "score": 777777 },
+  { "name": "SYSTEM_FAILURE", "score": 666666 },
+  { "name": "NULL_POINTER", "score": 555555 },
+  { "name": "SEGFAULT_99", "score": 444444 },
+  { "name": "YOU_TRIED", "score": 1234 },
+  { "name": "404_NOT_FOUND", "score": 111111 },
+  { "name": "BUFFER_OVERFLOW", "score": 99999 },
+  { "name": "KERNEL_PANIC", "score": 88888 }
+]
