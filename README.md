@@ -41,6 +41,8 @@ could strip paint, popup ads that fight back, random control reversals, a
 score counter that occasionally lies, and a player-name form that rejects vowels
 on principle.
 
+<img width="1240" height="640" alt="image-01" src="https://github.com/user-attachments/assets/5ee3c204-b5ee-4c39-9557-b7bdfc572330" />
+
 And yet — somehow — it works.
 
 ---
